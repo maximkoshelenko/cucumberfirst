@@ -1,5 +1,5 @@
 @smokeTest
-Feature:Google search page test
+Feature: Google search page test
 
   Scenario: 01_Searching for Wikipedia website
     Given Google Website is opened in Chrome browser
