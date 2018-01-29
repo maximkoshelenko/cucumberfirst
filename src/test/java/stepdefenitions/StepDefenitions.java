@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 
 import static junit.framework.TestCase.assertTrue;
 
-public class stepDefenitions {
+public class StepDefenitions {
     private WebDriver driver;
 
     private WebElement searchField(){
